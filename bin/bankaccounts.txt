@@ -1,0 +1,7 @@
+6
+account1  4100.30
+account2  -100
+account3  873.46
+account4  
+account5  900.25
+account6  15
